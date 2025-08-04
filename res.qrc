@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/icons/address-book.png</file>
+        <file>assets/icons/briefcase.png</file>
+        <file>assets/icons/cabinDarkTheme.png</file>
+        <file>assets/icons/cabinLightTheme.png</file>
+        <file>assets/icons/clock-nine.png</file>
+        <file>assets/icons/compassDarkTheme.png</file>
+        <file>assets/icons/compassLightTheme.png</file>
+        <file>assets/icons/grid.png</file>
+        <file>assets/icons/home.png</file>
+        <file>assets/icons/homeDarkTheme.png</file>
+        <file>assets/icons/homeLightTheme.png</file>
+        <file>assets/icons/marker.png</file>
+        <file>assets/icons/music-alt.png</file>
+        <file>assets/icons/musicDarkTheme.png</file>
+        <file>assets/icons/musicLightTheme.png</file>
+        <file>assets/icons/paper-plane.png</file>
+        <file>assets/icons/phone-call.png</file>
+        <file>assets/icons/phoneDarkTheme.png</file>
+        <file>assets/icons/phoneLightTheme.png</file>
+        <file>assets/icons/plus.png</file>
+        <file>assets/icons/review.png</file>
+        <file>assets/icons/settings.png</file>
+        <file>assets/icons/settingsDarkTheme.png</file>
+        <file>assets/icons/settingsLightTheme.png</file>
+        <file>assets/icons/star.png</file>
+        <file>assets/icons/steering-wheel.png</file>
+        <file>assets/icons/vehicleDarkTheme.png</file>
+        <file>assets/icons/vehicleLightTheme.png</file>
+        <file>assets/icons/wind.png</file>
+    </qresource>
+</RCC>
